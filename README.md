@@ -1,8 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+AtmosEase  |   A Real-Time Weather Reporting Application
+      • Developed AtomsEase, a real-time weather reporting application using ReactJS & Material-ui that allows users to fetch up-to-date weather information.
+      • Used OpenWeatherMap API to import accurate and current weather data, including temperature, humidity and conditions.
+      • Deployed the web-app on Netlify which can be accessed here : [atmosease.netlify.app](https://atmosease.netlify.app/)
